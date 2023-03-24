@@ -3,7 +3,7 @@ html, body {
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
-    background-color: #0f0f0f;
+    background-color: #b6ad7d;
 }
 
 .template {
@@ -48,7 +48,7 @@ html, body {
     font-size: 22px;
     text-align: center;
     color: white;
-    background-color: rgb(138, 26, 26);
+    background-color: rgb(58, 42, 35);
     border: 2px solid rgba(0, 0, 0, 0.2);
     border-radius: 10px;
     box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.1);
